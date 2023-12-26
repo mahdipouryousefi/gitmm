@@ -6,6 +6,8 @@ const Header = () => {
                 <div  >
                         <img className='header' src={image} />
 
+
+
                 </div>
         )
 
