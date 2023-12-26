@@ -39,9 +39,11 @@ const Autoimage = () => {
               slidesPerView: 1.5,
 
             },
+
             300: {
               slidesPerView: 2,
             },
+            
             350: {
               slidesPerView: 2.2,
             },
