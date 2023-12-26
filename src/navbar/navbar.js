@@ -21,7 +21,7 @@ const Navbare = () => {
 
                     <span className='border' style={{ border: 'solid 1px #7D7C7C', margin: '10px', padding: '6px', borderRadius: '5px' }}  >
                     <HiOutlineLogin className='shop'  style={{ cursor: 'pointer' }} />
-                        <span style={{ margin: '4px', cursor: 'pointer' }}> ورود  </span>
+                        <span style={{ margin: '4px', cursor: 'pointer' }}> ورود  </span> |
                         <span style={{ margin: '4px', cursor: 'pointer' }}>ثبت نام</span>
                     </span>
                     <span style={{ borderRight: '1px solid #7D7C7C', margin: '15px' }}></span>
